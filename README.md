@@ -1,1 +1,1 @@
-# Udacity-Personal-Blog
+# Front End Developer Nanodegree Personal Blog Project
