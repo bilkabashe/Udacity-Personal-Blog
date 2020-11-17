@@ -1,0 +1,31 @@
+/*footer {
+    grid-area: ft;
+    height: 30px;
+    color: #A52A2A;
+    padding-bottom: 10px;
+    text-align: center;
+  }
+  
+  .fab {
+    padding: 5px;
+  }*/
+
+  footer {
+    display: block;
+    background: #A52A2A; 
+    color: white;
+    height: 100px;
+    margin-top: 20px;
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+}
+
+footer p {
+    padding-top: 40px;
+    margin-bottom: 0;
+}
+
+
+
+
